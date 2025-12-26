@@ -1,10 +1,10 @@
 Solution: Git and GitHub Challenge (Week 4)
 👤 Participant Information
-Name: [Your Name]
+Name: "Anand Sharma
 
 Batch: DevOps Batch 9
 
-GitHub Profile: [Link to your profile]
+GitHub Profile: https://github.com/anandj1
 
 🛠 Task 1: Fork and Clone
 Action: Forked the repository from LondheShubham153/90DaysOfDevOps.
