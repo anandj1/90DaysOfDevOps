@@ -1,15 +1,21 @@
 Solution: Git and GitHub Challenge (Week 4)
 👤 Participant Information
-Name: [Your Name]
+Name: "Anand Sharma
 
 Batch: DevOps Batch 9
 
-GitHub Profile: [Link to your profile]
+GitHub Profile: https://github.com/anandj1
+
+I am learning about jiraaa!!!!!
 
 🛠 Task 1: Fork and Clone
 Action: Forked the repository from LondheShubham153/90DaysOfDevOps.
 
-Command used:
+
+Command used:It is important to use the foll commands to work in sync
+we will have to make changes in order to see
+
+
 
 Bash
 
