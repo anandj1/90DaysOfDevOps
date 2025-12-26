@@ -9,7 +9,10 @@ GitHub Profile: https://github.com/anandj1
 🛠 Task 1: Fork and Clone
 Action: Forked the repository from LondheShubham153/90DaysOfDevOps.
 
-Command used:
+
+Command used:It is important to use the foll commands to work in sync
+we will have to make changes in order to see
+
 
 Bash
 
