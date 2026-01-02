@@ -4,8 +4,8 @@ This challenge covers advanced Git concepts essential for real-world DevOps work
 
 - Understand how to work with Pull Requests effectively.  
 - Learn to undo changes using Reset & Revert.  
-- Use Stashing to manage uncommitted work.  
-- Apply Cherry-picking for selective commits.  
+- How are you mate!! 
+- Apple mago banana  
 - Keep a clean commit history using Rebasing.  
 - Learn industry-standard Branching Strategies.  
 
